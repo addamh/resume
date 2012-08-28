@@ -1,4 +1,3 @@
-resume
+Addam Hardy's Resume in LaTeX
 ======
 
-My resume in LaTeX
